@@ -5,7 +5,7 @@
 که از کدوم یک استفاده کنید
 <hr>
 دستورات نصب:
-
+<br>
 <code>
 pip install tkinter
 pip install Observer
